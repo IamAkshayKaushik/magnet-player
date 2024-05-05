@@ -5,17 +5,17 @@
   "author": {
     "name": "Henrique Ferrolho",
     "email": "henrique.ferrolho@gmail.com",
-    "url": "http://ferrolho.github.io/"
+    "url": "https://iamakshaykaushik.github.io/"
   },
   "bugs": {
-    "url": "https://github.com/ferrolho/magnet-player/issues"
+    "url": "https://github.com/iamakshaykaushik/magnet-player/issues"
   },
   "dependencies": {
     "clipboard": "^1.5.12",
     "moment": "^2.15.0",
     "pretty-bytes": "^4.0.2"
   },
-  "homepage": "https://ferrolho.github.io/magnet-player/",
+  "homepage": "https://iamakshaykaushik.github.io/magnet-player/",
   "keywords": [
     "data channel",
     "file transfer",
