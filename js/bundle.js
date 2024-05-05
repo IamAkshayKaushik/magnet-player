@@ -55,15 +55,16 @@ var $uploadSpeed = $('#uploadSpeed')
 var $downloadSpeed = $('#downloadSpeed')
 
 var announceList = [
-['udp://tracker.openbittorrent.com:80'],
-['udp://tracker.internetwarriors.net:1337'],
-['udp://tracker.leechers-paradise.org:6969'],
-['udp://tracker.coppersurfer.tk:6969'],
-['udp://exodus.desync.com:6969'],
-['wss://tracker.webtorrent.io'],
+['udp://tracker.opentrackr.org:1337/announce'],
+['udp://open.demonii.com:1337/announce'],
+['udp://open.stealth.si:80/announce'],
+['udp://tracker.torrent.eu.org:451/announce'],
+['http://bvarf.tracker.sh:2086/announce'],
 ['wss://tracker.btorrent.xyz'],
 ['wss://tracker.openwebtorrent.com'],
-['wss://tracker.fastcast.nz']
+['wss://tracker.webtorrent.dev'],
+['wss://tracker.files.fm:7073/announce'],
+['ws://tracker.files.fm:7072/announce'],
 ]
 
 global.WEBTORRENT_ANNOUNCE = announceList
