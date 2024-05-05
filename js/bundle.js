@@ -60,11 +60,11 @@ var announceList = [
 ['udp://open.stealth.si:80/announce'],
 ['udp://tracker.torrent.eu.org:451/announce'],
 ['http://bvarf.tracker.sh:2086/announce'],
-['wss://tracker.btorrent.xyz'],
-['wss://tracker.openwebtorrent.com'],
 ['wss://tracker.webtorrent.dev'],
 ['wss://tracker.files.fm:7073/announce'],
 ['ws://tracker.files.fm:7072/announce'],
+['wss://tracker.btorrent.xyz'],
+['wss://tracker.openwebtorrent.com'],
 ]
 
 global.WEBTORRENT_ANNOUNCE = announceList
